@@ -1,2 +1,11 @@
-# Projetos-praticando-eventos
-Repositório com a resolução de exercícios praticando eventos com HTML, CSS e JavaScript 
+
+# Eventos
+
+## Exercícios:
+
+1.  Filtro de produtos
+2.  Quiz
+3.  Inscrição em Canal
+
+
+###### tags: `front-end` `DOM` `JS`
